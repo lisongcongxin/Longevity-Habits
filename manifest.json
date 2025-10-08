@@ -1,0 +1,16 @@
+﻿{
+  "name": "Pulse10 Longevity Habits",
+  "short_name": "Pulse10",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "./pulse-logo.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
